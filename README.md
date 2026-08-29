@@ -2,7 +2,7 @@
 
 An interactive math lesson exploring the Birthday Paradox through a modern, story-driven simulation.
 
-Learners guess an answer, test their intuition with a live simulation, and then go through the mathematical proof. Prerequisite skills include: Independent Events, Conditional Probability, and Combinations.  
+Learners guess an answer, test their intuition with a live simulation, and then work through the mathematical proof. Prerequisite skills include: Independent Events, Conditional Probability, and Combinations.  
   
 ## Try it Live!
 
