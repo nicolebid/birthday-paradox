@@ -6,11 +6,11 @@ Learners guess an answer, test their intuition with a live simulation, and then 
   
 ## Try it Live!
 
-No sign-in needed: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolebid/birthday-paradox/main?urlpath=%2Fdoc%2Ftree%2Fbirthday_paradox.ipynb)  
+View the lesson using one of the links below: 
 
-Google account needed: <a href="https://colab.research.google.com/github/nicolebid/birthday-paradox/blob/main/birthday_paradox.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+- No sign-in needed: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolebid/birthday-paradox/main?urlpath=%2Fdoc%2Ftree%2Fbirthday_paradox.ipynb)  
 
-## Getting Started
+- Google account needed: <a href="https://colab.research.google.com/github/nicolebid/birthday-paradox/blob/main/birthday_paradox.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 Once the notebook loads, run all cells to activate the interactive simulation buttons.
 
